@@ -87,7 +87,7 @@ body {
     content: "";
     display: table; }
   .book_container #book {
-    height: 400px;
+    height: 500px;
     float: left;
     display: block;
     margin-right: 2.35765%;

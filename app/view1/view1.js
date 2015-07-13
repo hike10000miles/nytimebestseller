@@ -13,4 +13,10 @@ angular.module('bestSellerApp.nonfiction', ['ngRoute'])
   $http.get('resources/nytimeBestsellerNonfiction20150706.json').success(function(data) {
     $scope.booklist1 = data;
   });
+  $scope.wants = [
+    {'title' :'Book Title'}
+  ];
+  $scope.addWants = function() {
+    $scope.wants.push({'title': $scope.wantbook});
+  };
 }]);

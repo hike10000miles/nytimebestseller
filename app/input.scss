@@ -61,7 +61,7 @@ body {
 .book_container {
 	@include outer-container;
 	#book {
-		height: 400px;
+		height: 500px;
 		@include span-columns(4);
 		margin-right: 1.5%;
 		text-align: center;

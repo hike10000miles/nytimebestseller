@@ -47,7 +47,8 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
-  font-size: 16px; }
+  font-size: 16px;
+  background-color: #E2F0D6; }
 
 /*****************************************************************************
   Layout Styles
@@ -56,6 +57,9 @@ body {
   margin-top: 0;
   list-style: none;
   padding-left: 0;
+  height: 50px;
+  text-align: center;
+  background-color: #10222B;
   max-width: 68em;
   margin-left: auto;
   margin-right: auto; }
@@ -64,6 +68,7 @@ body {
     content: "";
     display: table; }
   .menu li {
+    margin-top: 20px;
     float: left;
     display: block;
     margin-right: 2.35765%;
@@ -76,32 +81,60 @@ body {
     .menu li:nth-child(4n+1) {
       clear: left; }
     .menu li a {
-      text-decoration: none; }
+      text-decoration: none;
+      font-family: 'Open Sans', sans-serif;
+      color: #F6FFE0; }
 
 .book_container {
   max-width: 68em;
   margin-left: auto;
-  margin-right: auto; }
+  margin-right: auto;
+  background-color: #BDD684; }
   .book_container::after {
     clear: both;
     content: "";
     display: table; }
   .book_container #book {
+    margin-top: 20px;
     height: 500px;
     float: left;
     display: block;
     margin-right: 2.35765%;
     width: 31.76157%;
     margin-right: 1.5%;
-    text-align: center; }
+    text-align: center;
+    font-family: 'Coming Soon', cursive; }
     .book_container #book:last-child {
       margin-right: 0; }
     .book_container #book .image {
       width: 60%;
       height: 60%; }
 
+.copyright {
+  clear: both; }
+
 /*****************************************************************************
   Module Styles
 ******************************************************************************/
+.list_title {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif; }
+
+.search {
+  position: absolute;
+  left: 40px; }
+
+.title {
+  text-align: center;
+  font-family: 'Calligraffitti', cursive; }
+
+.amazon_link a {
+  text-decoration: none; }
+
+.review_link a {
+  text-decoration: none; }
+
+.copyright {
+  font-family: 'Open Sans', sans-serif; }
 
 /*# sourceMappingURL=app.css.map */

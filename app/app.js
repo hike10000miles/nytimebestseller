@@ -7,7 +7,6 @@ var bestSellerApp = angular.module('bestSellerApp', [
   'bestSellerApp.fiction',
   'bestSellerApp.culture',
   'bestSellerApp.science',
-  'myApp.version'
 ])
 .config(['$routeProvider', function($routeProvider) {
   $routeProvider.otherwise({redirectTo: '/nonfiction'});

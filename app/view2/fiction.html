@@ -1,11 +1,12 @@
-<p>{{booklist2.copyright}}</p>
-<p>{{booklist2.results.display_name}}</p>
-<input type="text" ng-model="nameFilter" placeholder="Search..."/>
+<h2 class="list_title">{{booklist2.results.display_name}}</h2>
+<input class="search" type="text" ng-model="nameFilter" placeholder="Search..."/>
 <div id="book" ng-repeat="book in booklist2.results.books | filter: nameFilter">
   <p>{{book.rank}}</p>
   <p>{{book.title}}</p>
   <p>{{book.author}}</p>
   <img class="image" ng-src="{{book.book_image}}">
-  <p><a href="{{book.amazon_product_url}}">Amazon Link</a></p>
-  <p ng-show="book.book_review_link"><a href="{{book.book_review_link}}">Book Review</a></p>
+  <p class="amazon_link"><a href="{{book.amazon_product_url}}">Amazon Link</a></p>
+  <p class="review_link" ng-show="book.book_review_link"><a href="{{book.book_review_link}}">Book Review</a></p>
 </div>
+<h4>{{booklist2.copyright}}</h4>
+<h4 class="copyright">{{booklist2.copyright}}</h4>

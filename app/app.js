@@ -1,12 +1,14 @@
 'use strict';
 
 // Declare app level module which depends on views, and components
-angular.module('myApp', [
+var bestSellerApp = angular.module('bestSellerApp', [
   'ngRoute',
-  'myApp.view1',
-  'myApp.view2',
+  'bestSellerApp.nonfiction',
+  'bestSellerApp.fiction',
+  'bestSellerApp.culture',
+  'bestSellerApp.science',
   'myApp.version'
-]).
-config(['$routeProvider', function($routeProvider) {
-  $routeProvider.otherwise({redirectTo: '/view1'});
+])
+.config(['$routeProvider', function($routeProvider) {
+  $routeProvider.otherwise({redirectTo: '/nonfiction'});
 }]);

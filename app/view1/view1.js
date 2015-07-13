@@ -1,14 +1,16 @@
 'use strict';
 
-angular.module('myApp.view1', ['ngRoute'])
+angular.module('bestSellerApp.nonfiction', ['ngRoute'])
 
 .config(['$routeProvider', function($routeProvider) {
-  $routeProvider.when('/view1', {
-    templateUrl: 'view1/view1.html',
+  $routeProvider.when('/nonfiction', {
+    templateUrl: 'view1/nonfiction.html',
     controller: 'View1Ctrl'
   });
 }])
 
-.controller('View1Ctrl', [function() {
-
+.controller('View1Ctrl', ['$scope', '$http', function($scope, $http) {
+  $http.get('resources/nytimeBestsellerNonfiction20150706.json').success(function(data) {
+    $scope.booklist1 = data;
+  });
 }]);

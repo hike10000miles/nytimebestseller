@@ -1,0 +1,120 @@
+{
+	"status":"OK",
+	"copyright":"Copyright (c) 2015 The New York Times Company.  All Rights Reserved.",
+	"num_results":20,"last_modified":"2015-07-02T19:00:12-04:00",
+	"results":
+	{
+		"list_name":"Hardcover Fiction",
+		"bestsellers_date":"2015-06-27",
+		"published_date":"2015-07-12",
+		"display_name":"Hardcover Fiction",
+		"normal_list_ends_at":16,
+		"updated":"WEEKLY",
+		"books":
+		[
+		    {
+		    	"rank":1,
+		    	"rank_last_week":1,
+		    	"weeks_on_list":24,
+		    	"asterisk":0,
+		    	"dagger":0,
+		    	"primary_isbn10":"1594633665",
+		    	"primary_isbn13":"9781594633669",
+		    	"publisher":"Riverhead",
+		    	"description":"A psychological thriller set in the environs of London.",
+		    	"price":0,
+		    	"title":"THE GIRL ON THE TRAIN",
+		    	"author":"Paula Hawkins",
+		    	"contributor":"by Paula Hawkins",
+		    	"contributor_note":"",
+		    	"book_image":"http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9781594633669.jpeg",
+		    	"amazon_product_url":"http:\/\/www.amazon.com\/The-Girl-Train-A-Novel-ebook\/dp\/B00L9B7IKE?tag=thenewyorktim-20",
+		    	"age_group":"","book_review_link":"http:\/\/www.nytimes.com\/2015\/01\/05\/books\/the-girl-on-the-train-by-paula-hawkins.html",
+		    	"first_chapter_link":"",
+		    	"sunday_review_link":"http:\/\/www.nytimes.com\/2015\/02\/01\/books\/review\/the-girl-on-the-train-by-paula-hawkins.html",
+		    	"article_chapter_link":"",
+		    	"isbns":[{"isbn10":"1594633665","isbn13":"9781594633669"},{"isbn10":"0698185390","isbn13":"9780698185395"},{"isbn10":"1410477762","isbn13":"9781410477767"},{"isbn10":"0857522329","isbn13":"9780857522320"},{"isbn10":"1448171687","isbn13":"9781448171682"}]
+		    },
+
+		    {
+		    	"rank":2,
+		    	"rank_last_week":2,
+		    	"weeks_on_list":60,
+		    	"asterisk":0,
+		    	"dagger":0,
+		    	"primary_isbn10":"1476746583",
+		    	"primary_isbn13":"9781476746586",
+		    	"publisher":"Scribner",
+		    	"description":"The lives of a blind French girl and a gadget-obsessed German boy before and during World War II; the winner of the 2015 Pulitzer Prize. \u00a0",
+		    	"price":0,
+		    	"title":"ALL THE LIGHT WE CANNOT SEE",
+		    	"author":"Anthony Doerr",
+		    	"contributor":"by Anthony Doerr",
+		    	"contributor_note":"",
+		    	"book_image":"http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9781476746609.jpg",
+		    	"amazon_product_url":"http:\/\/www.amazon.com\/All-Light-We-Cannot-See-ebook\/dp\/B00DPM7TIG?tag=thenewyorktim-20","age_group":"",
+		    	"book_review_link":"",
+		    	"first_chapter_link":"",
+		    	"sunday_review_link":"http:\/\/www.nytimes.com\/2014\/05\/11\/books\/review\/all-the-light-we-cannot-see-by-anthony-doerr.html",
+		    	"article_chapter_link":"",
+		    	"isbns":[{"isbn10":"1476746583","isbn13":"9781476746586"},{"isbn10":"1410470229","isbn13":"9781410470225"},{"isbn10":"1476746591","isbn13":"9781476746593"},{"isbn10":"1501122835","isbn13":"9781501122835"},{"isbn10":"0007548699","isbn13":"9780007548699"}]
+		    },
+
+		    {
+		    	"rank":3,
+		    	"rank_last_week":0,
+		    	"weeks_on_list":1,
+		    	"asterisk":0,
+		    	"dagger":0,
+		    	"primary_isbn10":"0316407011",
+		    	"primary_isbn13":"9780316407014",
+		    	"publisher":"Little, Brown",
+		    	"description":"An attorney discovers a shocking secret that must be kept out of the wrong hands.",
+		    	"price":0,
+		    	"title":"TRUTH OR DIE",
+		    	"author":"James Patterson and Howard Roughan",
+		    	"contributor":"by James Patterson and Howard Roughan",
+		    	"contributor_note":"",
+		    	"book_image":"http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9780316408738.jpg",
+		    	"amazon_product_url":"http:\/\/www.amazon.com\/Truth-Die-James-Patterson-ebook\/dp\/B00QQQL8VM?tag=thenewyorktim-20",
+		    	"age_group":"",
+		    	"book_review_link":"",
+		    	"first_chapter_link":"",
+		    	"sunday_review_link":"",
+		    	"article_chapter_link":"",
+		    	"isbns":[{"isbn10":"0316407011","isbn13":"9780316407014"},{"isbn10":"0316408735","isbn13":"9780316408738"}]
+		    },
+
+		    {"rank":4,"rank_last_week":3,"weeks_on_list":4,"asterisk":0,"dagger":0,"primary_isbn10":"1501100076","primary_isbn13":"9781501100079","publisher":"Scribner","description":"A deranged reader's infatuation with a Salingeresque novelist has dangerous consequences in a sequel to \"Mr. Mercedes.\"","price":0,"title":"FINDERS KEEPERS","author":"Stephen King","contributor":"by Stephen King","contributor_note":"","book_image":"http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9781501100130.jpg","amazon_product_url":"http:\/\/www.amazon.com\/Finders-Keepers-Novel-Stephen-King-ebook\/dp\/B00P42WROG?tag=thenewyorktim-20","age_group":"","book_review_link":"","first_chapter_link":"","sunday_review_link":"","article_chapter_link":"","isbns":[{"isbn10":"1501100076","isbn13":"9781501100079"},{"isbn10":"1501100130","isbn13":"9781501100130"},{"isbn10":"1410479501","isbn13":"9781410479501"}]},
+		    
+		    {"rank":5,"rank_last_week":9,"weeks_on_list":4,"asterisk":0,"dagger":0,"primary_isbn10":"1101875046","primary_isbn13":"9781101875049","publisher":"Knopf","description":"Secrets are revealed and love stories play out against the backdrop of a series of plane crashes in 1950s New Jersey.","price":0,"title":"IN THE UNLIKELY EVENT","author":"Judy Blume","contributor":"by Judy Blume","contributor_note":"","book_image":"http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9781101875056.jpg","amazon_product_url":"http:\/\/www.amazon.com\/In-Unlikely-Event-Judy-Blume-ebook\/dp\/B00R04MDYA?tag=thenewyorktim-20","age_group":"","book_review_link":"","first_chapter_link":"","sunday_review_link":"","article_chapter_link":"","isbns":[{"isbn10":"1101875046","isbn13":"9781101875049"},{"isbn10":"1101875054","isbn13":"9781101875056"},{"isbn10":"0804194769","isbn13":"9780804194761"}]},
+		    
+		    {"rank":6,"rank_last_week":0,"weeks_on_list":1,"asterisk":0,"dagger":0,"primary_isbn10":"1476749116","primary_isbn13":"9781476749112","publisher":"Simon & Schuster","description":"A designer is drawn into the lives of family of a hedge fund billionaire who has disappeared suspiciously.","price":0,"title":"THE MELODY LINGERS ON","author":"Mary Higgins Clark","contributor":"by Mary Higgins Clark","contributor_note":"","book_image":"http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9781476749136.jpg","amazon_product_url":"http:\/\/www.amazon.com\/Melody-Lingers-Mary-Higgins-Clark-ebook\/dp\/B00NR1CZIE?tag=thenewyorktim-20","age_group":"","book_review_link":"","first_chapter_link":"","sunday_review_link":"","article_chapter_link":"","isbns":[{"isbn10":"1476749116","isbn13":"9781476749112"},{"isbn10":"1476749132","isbn13":"9781476749136"}]},
+		    
+		    {"rank":7,"rank_last_week":0,"weeks_on_list":1,"asterisk":0,"dagger":0,"primary_isbn10":"0553392719","primary_isbn13":"9780553392715","publisher":"Bantam","description":"Lizzy Tucker and her partner, Diesel, join a hunt for buried treasure.","price":0,"title":"WICKED CHARMS","author":"Janet Evanovich and Phoef Sutton","contributor":"by Janet Evanovich and Phoef Sutton","contributor_note":"","book_image":"http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9780553392722.jpg","amazon_product_url":"http:\/\/www.amazon.com\/Wicked-Charms-Lizzy-Diesel-Novel-ebook\/dp\/B00N6PD6SO?tag=thenewyorktim-20","age_group":"","book_review_link":"","first_chapter_link":"","sunday_review_link":"","article_chapter_link":"","isbns":[{"isbn10":"0553392719","isbn13":"9780553392715"},{"isbn10":"0553392727","isbn13":"9780553392722"}]},
+		    
+		    {"rank":8,"rank_last_week":4,"weeks_on_list":2,"asterisk":0,"dagger":0,"primary_isbn10":"039917575X","primary_isbn13":"9780399175756","publisher":"Putnam","description":"A former collaborator continues Clancy\u2019s series about the covert intelligent expert Jack Ryan Jr. (Clancy died in 2013.)","price":0,"title":"TOM CLANCY UNDER FIRE","author":"Grant Blackwood","contributor":"by Grant Blackwood","contributor_note":"","book_image":"http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9780698404861.jpg","amazon_product_url":"http:\/\/www.amazon.com\/Clancy-Under-Fire-Jack-Novel-ebook\/dp\/B00TY3ZOBY?tag=thenewyorktim-20","age_group":"","book_review_link":"","first_chapter_link":"","sunday_review_link":"","article_chapter_link":"","isbns":[{"isbn10":"039917575X","isbn13":"9780399175756"}]},
+		    
+		    {"rank":9,"rank_last_week":6,"weeks_on_list":2,"asterisk":0,"dagger":0,"primary_isbn10":"0316334529","primary_isbn13":"9780316334525","publisher":"Little, Brown","description":"Two friends on Nantucket must deal with damaging gossip about themselves and their husbands.","price":0,"title":"THE RUMOR","author":"Elin Hilderbrand","contributor":"by Elin Hilderbrand","contributor_note":"","book_image":"http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9780316334501.jpg","amazon_product_url":"http:\/\/www.amazon.com\/The-Rumor-Novel-Elin-Hilderbrand-ebook\/dp\/B00O7X61S6?tag=thenewyorktim-20","age_group":"","book_review_link":"","first_chapter_link":"","sunday_review_link":"","article_chapter_link":"","isbns":[{"isbn10":"0316334529","isbn13":"9780316334525"},{"isbn10":"0316334502","isbn13":"9780316334501"},{"isbn10":"0316339350","isbn13":"9780316339353"}]},
+		    
+		    {"rank":10,"rank_last_week":5,"weeks_on_list":2,"asterisk":1,"dagger":0,"primary_isbn10":"044655393X","primary_isbn13":"9780446553933","publisher":"Grand Central","description":"In the third Culper Ring novel, a severed arm is found in the White House Rose Garden.","price":0,"title":"THE PRESIDENT'S SHADOW","author":"Brad Meltzer","contributor":"by Brad Meltzer","contributor_note":"","book_image":"http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9780446553957.jpg","amazon_product_url":"http:\/\/www.amazon.com\/Presidents-Shadow-Culper-Ring-Series-ebook\/dp\/B00O7X61XG?tag=thenewyorktim-20","age_group":"","book_review_link":"","first_chapter_link":"","sunday_review_link":"","article_chapter_link":"","isbns":[{"isbn10":"044655393X","isbn13":"9780446553933"},{"isbn10":"1455536563","isbn13":"9781455536566"}]},
+		    
+		    {"rank":11,"rank_last_week":7,"weeks_on_list":5,"asterisk":0,"dagger":0,"primary_isbn10":"0446580856","primary_isbn13":"9780446580854","publisher":"Grand Central","description":"A surveillance expert monitors the activities of a newly resurgent Russia.","price":0,"title":"RADIANT ANGEL","author":"Nelson DeMille","contributor":"by Nelson DeMille","contributor_note":"","book_image":"http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9780446580854.jpg","amazon_product_url":"http:\/\/www.amazon.com\/Radiant-Angel-John-Corey-Novel\/dp\/0446580856?tag=thenewyorktim-20","age_group":"","book_review_link":"","first_chapter_link":"","sunday_review_link":"","article_chapter_link":"","isbns":[{"isbn10":"0446580856","isbn13":"9780446580854"},{"isbn10":"145558231X","isbn13":"9781455582310"},{"isbn10":"1455589594","isbn13":"9781455589593"}]},
+		    
+		    {"rank":12,"rank_last_week":8,"weeks_on_list":2,"asterisk":0,"dagger":0,"primary_isbn10":"0345531000","primary_isbn13":"9780345531001","publisher":"Delacorte","description":"After her husband\u2019s sudden death, a woman falls in love with a country music superstar.","price":0,"title":"COUNTRY","author":"Danielle Steel","contributor":"by Danielle Steel","contributor_note":"","book_image":"http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9780345531025.jpg","amazon_product_url":"http:\/\/www.amazon.com\/Country-A-Novel-Danielle-Steel-ebook\/dp\/B00NRQLWJW?tag=thenewyorktim-20","age_group":"","book_review_link":"","first_chapter_link":"","sunday_review_link":"","article_chapter_link":"","isbns":[{"isbn10":"0345531000","isbn13":"9780345531001"},{"isbn10":"0804194637","isbn13":"9780804194631"}]},
+		    
+		    {"rank":13,"rank_last_week":12,"weeks_on_list":21,"asterisk":0,"dagger":0,"primary_isbn10":"0312577222","primary_isbn13":"9780312577223","publisher":"St. Martin's","description":"Two sisters in World War II France: one struggling to survive in the countryside, the other joining the Resistance in Paris.","price":0,"title":"THE NIGHTINGALE","author":"Kristin Hannah","contributor":"by Kristin Hannah","contributor_note":"","book_image":"http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9781466850606.jpeg","amazon_product_url":"http:\/\/www.amazon.com\/The-Nightingale-Kristin-Hannah\/dp\/0312577222?tag=thenewyorktim-20","age_group":"","book_review_link":"","first_chapter_link":"","sunday_review_link":"","article_chapter_link":"","isbns":[{"isbn10":"0312577222","isbn13":"9780312577223"},{"isbn10":"1466850604","isbn13":"9781466850606"},{"isbn10":"1628995017","isbn13":"9781628995015"}]},
+		    
+		    {"rank":14,"rank_last_week":13,"weeks_on_list":7,"asterisk":0,"dagger":0,"primary_isbn10":"1476789630","primary_isbn13":"9781476789637","publisher":"Simon & Schuster","description":"The life of a successful New York magazine writer is shaken when secrets from her past are revealed.","price":0,"title":"LUCKIEST GIRL ALIVE","author":"Jessica Knoll","contributor":"by Jessica Knoll","contributor_note":"","book_image":"http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9781476789651.jpg","amazon_product_url":"http:\/\/www.amazon.com\/Luckiest-Girl-Alive-A-Novel-ebook\/dp\/B00LD1OITO?tag=thenewyorktim-20","age_group":"","book_review_link":"","first_chapter_link":"","sunday_review_link":"","article_chapter_link":"","isbns":[{"isbn10":"1476789630","isbn13":"9781476789637"},{"isbn10":"1476789657","isbn13":"9781476789651"}]},
+		    
+		    {"rank":15,"rank_last_week":10,"weeks_on_list":10,"asterisk":0,"dagger":0,"primary_isbn10":"1455559822","primary_isbn13":"9781455559824","publisher":"Grand Central","description":"A police detective uses his extraordinary memory when tackling the case of his family's murder.","price":0,"title":"MEMORY MAN","author":"David Baldacci","contributor":"by David Baldacci","contributor_note":"","book_image":"http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9781455586387.jpg","amazon_product_url":"http:\/\/www.amazon.com\/Memory-Amos-Decker-David-Baldacci-ebook\/dp\/B00N7TDP8K?tag=thenewyorktim-20","age_group":"","book_review_link":"","first_chapter_link":"","sunday_review_link":"","article_chapter_link":"","isbns":[{"isbn10":"1455559822","isbn13":"9781455559824"},{"isbn10":"1455589489","isbn13":"9781455589487"},{"isbn10":"1455586382","isbn13":"9781455586387"}]},
+		    
+		    {"rank":16,"rank_last_week":11,"weeks_on_list":3,"asterisk":1,"dagger":0,"primary_isbn10":"0062132563","primary_isbn13":"9780062132567","publisher":"Morrow\/HarperCollins","description":"Three friends in South Carolina\u2019s Lowcountry grapple with the challenges of being unmarried.","price":0,"title":"ALL THE SINGLE LADIES","author":"Dorothea Benton Frank","contributor":"by Dorothea Benton Frank","contributor_note":"","book_image":"http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9780062132574.jpg","amazon_product_url":"http:\/\/www.amazon.com\/All-Single-Ladies-A-Novel-ebook\/dp\/B00NEOM5FM?tag=thenewyorktim-20","age_group":"","book_review_link":"","first_chapter_link":"","sunday_review_link":"","article_chapter_link":"","isbns":[{"isbn10":"0062132563","isbn13":"9780062132567"},{"isbn10":"0062132571","isbn13":"9780062132574"}]},
+		    
+		    {"rank":17,"rank_last_week":0,"weeks_on_list":0,"asterisk":0,"dagger":0,"primary_isbn10":"1101874996","primary_isbn13":"9781101874998","publisher":"Knopf","description":"","price":0,"title":"THE CARTEL","author":"Don Winslow","contributor":"by Don Winslow","contributor_note":"","book_image":"http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9781101874998.jpg","amazon_product_url":"http:\/\/www.amazon.com\/The-Cartel-novel-Don-Winslow\/dp\/1101874996?tag=thenewyorktim-20","age_group":"","book_review_link":"","first_chapter_link":"","sunday_review_link":"","article_chapter_link":"","isbns":[{"isbn10":"1101874996","isbn13":"9781101874998"}]},
+		    
+		    {"rank":18,"rank_last_week":0,"weeks_on_list":0,"asterisk":0,"dagger":0,"primary_isbn10":"1101875895","primary_isbn13":"9781101875896","publisher":"Knopf","description":"A woman asks a widower to start spending the night with her.","price":0,"title":"OUR SOULS AT NIGHT","author":"Kent Haruf","contributor":"by Kent Haruf","contributor_note":"","book_image":"http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9781101875896.jpg","amazon_product_url":"http:\/\/www.amazon.com\/Our-Souls-Night-Kent-Haruf\/dp\/1101875895?tag=thenewyorktim-20","age_group":"","book_review_link":"","first_chapter_link":"","sunday_review_link":"","article_chapter_link":"","isbns":[{"isbn10":"1101875895","isbn13":"9781101875896"},{"isbn10":"1628995718","isbn13":"9781628995718"}]},
+		    
+		    {"rank":19,"rank_last_week":0,"weeks_on_list":0,"asterisk":0,"dagger":0,"primary_isbn10":"1250048230","primary_isbn13":"9781250048233","publisher":"St. Martin's","description":"","price":0,"title":"THE SANTANGELOS","author":"Jackie Collins","contributor":"by Jackie Collins","contributor_note":"","book_image":"http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9781466848900.jpg","amazon_product_url":"http:\/\/www.amazon.com\/The-Santangelos-Novel-Jackie-Collins-ebook\/dp\/B00Q20YECW?tag=thenewyorktim-20","age_group":"","book_review_link":"","first_chapter_link":"","sunday_review_link":"","article_chapter_link":"","isbns":[{"isbn10":"1250048230","isbn13":"9781250048233"},{"isbn10":"1466848901","isbn13":"9781466848900"}]},
+		    
+		    {"rank":20,"rank_last_week":0,"weeks_on_list":0,"asterisk":0,"dagger":0,"primary_isbn10":"031640702X","primary_isbn13":"9780316407021","publisher":"Little, Brown","description":"A video of a shocking crime surfaces, casting suspicion on a San Francisco detective's colleagues.","price":0,"title":"14TH DEADLY SIN","author":"James Patterson and Maxine Paetro","contributor":"by James Patterson and Maxine Paetro","contributor_note":"","book_image":"http:\/\/du.ec2.nytimes.com.s3.amazonaws.com\/prd\/books\/9780316407021.jpg","amazon_product_url":"http:\/\/www.amazon.com\/14th-Deadly-Womens-Murder-Club\/dp\/031640702X?tag=thenewyorktim-20","age_group":"","book_review_link":"","first_chapter_link":"","sunday_review_link":"","article_chapter_link":"","isbns":[{"isbn10":"031640702X","isbn13":"9780316407021"},{"isbn10":"031640876X","isbn13":"9780316408769"}]}],"corrections":[]}}

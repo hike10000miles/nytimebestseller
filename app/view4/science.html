@@ -1,8 +1,8 @@
 <p>{{booklist4.copyright}}</p>
 <p>{{booklist4.results.display_name}}</p>
-<div ng-repeat="book in booklist4.results.books">
+<div id="book" ng-repeat="book in booklist4.results.books">
   <p>{{book.title}}</p>
   <p>{{book.author}}</p>
-  <img ng-src="{{book.book_image}}">
+  <img class="image" ng-src="{{book.book_image}}">
   <p><a href="{{book.amazon_product_url}}">Amazon Link</a></p>
 </div>

@@ -1,0 +1,90 @@
+/*****************************************************************************
+  New York Times Best seller app
+******************************************************************************/
+
+
+@import "bourbon/bourbon";
+$visual-grid: true;
+$visual-grid-color: green;
+$gril-columns: 12;
+
+
+@import "neat/neat";
+
+
+
+
+
+/*****************************************************************************
+  Base Styles
+******************************************************************************/
+* {
+  box-sizing: border-box;
+}
+ .main{
+	@include outer-container;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+}
+
+
+
+
+
+
+
+
+
+/*****************************************************************************
+  Layout Styles
+******************************************************************************/
+.menu {
+	margin-top: 0;
+	list-style: none;
+	padding-left: 0;
+	@include outer-container;
+	li {
+		@include span-columns(3);
+		@include omega(4n);
+		text-align: center;
+		a {
+			text-decoration: none;
+		}
+	}
+}
+.book_container {
+	@include outer-container;
+	#book {
+		height: 400px;
+		@include span-columns(4);
+		margin-right: 1.5%;
+		text-align: center;
+		.image {
+			width: 60%;
+			height: 60%;
+		}
+	}
+}
+
+
+
+
+
+
+/*****************************************************************************
+  Module Styles
+******************************************************************************/
+
+
+
+
+
+
+
+

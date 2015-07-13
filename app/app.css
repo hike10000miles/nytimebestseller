@@ -1,30 +1,107 @@
-/* app css stylesheet */
+/*****************************************************************************
+  New York Times Best seller app
+******************************************************************************/
+html {
+  box-sizing: border-box; }
 
-.menu {
-  list-style: none;
-  border-bottom: 0.1em solid black;
-  margin-bottom: 2em;
-  padding: 0 0 0.5em;
-}
+*, *::after, *::before {
+  box-sizing: inherit; }
 
-.menu:before {
-  content: "[";
-}
-
-.menu:after {
-  content: "]";
-}
-
-.menu > li {
-  display: inline;
-}
-
-.menu > li:before {
-  content: "|";
-  padding-right: 0.3em;
-}
-
-.menu > li:nth-child(1):before {
+body:before {
+  background-image: -webkit-linear-gradient(left, transparent 0, green 0, green 6.17215%, transparent 6.17215%, transparent 8.5298%, green 8.5298%, green 14.70196%, transparent 14.70196%, transparent 17.05961%, green 17.05961%, green 23.23176%, transparent 23.23176%, transparent 25.58941%, green 25.58941%, green 31.76157%, transparent 31.76157%, transparent 34.11922%, green 34.11922%, green 40.29137%, transparent 40.29137%, transparent 42.64902%, green 42.64902%, green 48.82117%, transparent 48.82117%, transparent 51.17883%, green 51.17883%, green 57.35098%, transparent 57.35098%, transparent 59.70863%, green 59.70863%, green 65.88078%, transparent 65.88078%, transparent 68.23843%, green 68.23843%, green 74.41059%, transparent 74.41059%, transparent 76.76824%, green 76.76824%, green 82.94039%, transparent 82.94039%, transparent 85.29804%, green 85.29804%, green 91.4702%, transparent 91.4702%, transparent 93.82785%, green 93.82785%, green 100.0%, transparent 100.0%);
+  background-image: -moz-linear-gradient(left, transparent 0, green 0, green 6.17215%, transparent 6.17215%, transparent 8.5298%, green 8.5298%, green 14.70196%, transparent 14.70196%, transparent 17.05961%, green 17.05961%, green 23.23176%, transparent 23.23176%, transparent 25.58941%, green 25.58941%, green 31.76157%, transparent 31.76157%, transparent 34.11922%, green 34.11922%, green 40.29137%, transparent 40.29137%, transparent 42.64902%, green 42.64902%, green 48.82117%, transparent 48.82117%, transparent 51.17883%, green 51.17883%, green 57.35098%, transparent 57.35098%, transparent 59.70863%, green 59.70863%, green 65.88078%, transparent 65.88078%, transparent 68.23843%, green 68.23843%, green 74.41059%, transparent 74.41059%, transparent 76.76824%, green 76.76824%, green 82.94039%, transparent 82.94039%, transparent 85.29804%, green 85.29804%, green 91.4702%, transparent 91.4702%, transparent 93.82785%, green 93.82785%, green 100.0%, transparent 100.0%);
+  background-image: -ms-linear-gradient(left, transparent 0, green 0, green 6.17215%, transparent 6.17215%, transparent 8.5298%, green 8.5298%, green 14.70196%, transparent 14.70196%, transparent 17.05961%, green 17.05961%, green 23.23176%, transparent 23.23176%, transparent 25.58941%, green 25.58941%, green 31.76157%, transparent 31.76157%, transparent 34.11922%, green 34.11922%, green 40.29137%, transparent 40.29137%, transparent 42.64902%, green 42.64902%, green 48.82117%, transparent 48.82117%, transparent 51.17883%, green 51.17883%, green 57.35098%, transparent 57.35098%, transparent 59.70863%, green 59.70863%, green 65.88078%, transparent 65.88078%, transparent 68.23843%, green 68.23843%, green 74.41059%, transparent 74.41059%, transparent 76.76824%, green 76.76824%, green 82.94039%, transparent 82.94039%, transparent 85.29804%, green 85.29804%, green 91.4702%, transparent 91.4702%, transparent 93.82785%, green 93.82785%, green 100.0%, transparent 100.0%);
+  background-image: -o-linear-gradient(left, transparent 0, green 0, green 6.17215%, transparent 6.17215%, transparent 8.5298%, green 8.5298%, green 14.70196%, transparent 14.70196%, transparent 17.05961%, green 17.05961%, green 23.23176%, transparent 23.23176%, transparent 25.58941%, green 25.58941%, green 31.76157%, transparent 31.76157%, transparent 34.11922%, green 34.11922%, green 40.29137%, transparent 40.29137%, transparent 42.64902%, green 42.64902%, green 48.82117%, transparent 48.82117%, transparent 51.17883%, green 51.17883%, green 57.35098%, transparent 57.35098%, transparent 59.70863%, green 59.70863%, green 65.88078%, transparent 65.88078%, transparent 68.23843%, green 68.23843%, green 74.41059%, transparent 74.41059%, transparent 76.76824%, green 76.76824%, green 82.94039%, transparent 82.94039%, transparent 85.29804%, green 85.29804%, green 91.4702%, transparent 91.4702%, transparent 93.82785%, green 93.82785%, green 100.0%, transparent 100.0%);
+  background-image: linear-gradient(to left, transparent 0, green 0, green 6.17215%, transparent 6.17215%, transparent 8.5298%, green 8.5298%, green 14.70196%, transparent 14.70196%, transparent 17.05961%, green 17.05961%, green 23.23176%, transparent 23.23176%, transparent 25.58941%, green 25.58941%, green 31.76157%, transparent 31.76157%, transparent 34.11922%, green 34.11922%, green 40.29137%, transparent 40.29137%, transparent 42.64902%, green 42.64902%, green 48.82117%, transparent 48.82117%, transparent 51.17883%, green 51.17883%, green 57.35098%, transparent 57.35098%, transparent 59.70863%, green 59.70863%, green 65.88078%, transparent 65.88078%, transparent 68.23843%, green 68.23843%, green 74.41059%, transparent 74.41059%, transparent 76.76824%, green 76.76824%, green 82.94039%, transparent 82.94039%, transparent 85.29804%, green 85.29804%, green 91.4702%, transparent 91.4702%, transparent 93.82785%, green 93.82785%, green 100.0%, transparent 100.0%);
   content: "";
+  display: inline-block;
+  height: 100%;
+  left: 0;
+  margin: 0 auto;
+  max-width: 68em;
+  opacity: 0.4;
+  pointer-events: none;
+  position: fixed;
+  right: 0;
+  width: 100%;
+  z-index: -1; }
+
+/*****************************************************************************
+  Base Styles
+******************************************************************************/
+* {
+  box-sizing: border-box; }
+
+.main {
+  max-width: 68em;
+  margin-left: auto;
+  margin-right: auto; }
+  .main::after {
+    clear: both;
+    content: "";
+    display: table; }
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
   padding: 0;
-}
+  font-size: 16px; }
+
+/*****************************************************************************
+  Layout Styles
+******************************************************************************/
+.menu {
+  margin-top: 0;
+  list-style: none;
+  padding-left: 0;
+  max-width: 68em;
+  margin-left: auto;
+  margin-right: auto; }
+  .menu::after {
+    clear: both;
+    content: "";
+    display: table; }
+  .menu li {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 23.23176%;
+    text-align: center; }
+    .menu li:last-child {
+      margin-right: 0; }
+    .menu li:nth-child(4n) {
+      margin-right: 0; }
+    .menu li:nth-child(4n+1) {
+      clear: left; }
+    .menu li a {
+      text-decoration: none; }
+
+.book_container {
+  max-width: 68em;
+  margin-left: auto;
+  margin-right: auto; }
+  .book_container::after {
+    clear: both;
+    content: "";
+    display: table; }
+  .book_container #book {
+    height: 400px;
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 31.76157%;
+    margin-right: 1.5%;
+    text-align: center; }
+    .book_container #book:last-child {
+      margin-right: 0; }
+    .book_container #book .image {
+      width: 60%;
+      height: 60%; }
+
+/*****************************************************************************
+  Module Styles
+******************************************************************************/
+
+/*# sourceMappingURL=app.css.map */

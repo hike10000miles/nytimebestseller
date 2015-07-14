@@ -1,5 +1,5 @@
 
-This app was created using Angular seed app project template.
+    This app was created using Angular seed app project template.
 
     This app does one thing, displays New York Time' Best Seller book list(hard-cover fiction, hard-cover nonfiction, culture and science), also it allows users to search by title and author name. I got the data from New York Time API, and put them into the resource of this app. The API do not allow access with localhost, therefore I downloaded it.
 
